@@ -1,2 +1,2 @@
 # -Infinite-Auto-Scroll-
- https://middleclassnitin.github.io/-Infinite-Auto-Scroll-/
+ https://codewithnir.github.io/-Infinite-Auto-Scroll-/
